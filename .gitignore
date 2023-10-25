@@ -4,9 +4,6 @@ node_modules/
 # TypeScript output directory
 dist/
 
-# Environment configuration files
-.env
-
 # Editor specific files
 .vscode/
 .idea/
